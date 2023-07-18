@@ -11,6 +11,6 @@ T-root is a tool that uses proroot to simulate root privileges, using the word r
 * ` git clone https://github.com/U7P4L-IN/T-ROOT `
 * ` cd T-ROOT`
 * ` bash install.sh `
-* ` ./start
+* ` ./start `
 
 To activate the privileges, just text the word root and when PS1($) shows # the service will already be activated. To deactivate it, just text exit to exit it
