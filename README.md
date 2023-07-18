@@ -8,6 +8,7 @@ T-root is a tool that uses proroot to simulate root privileges, using the word r
 * ` pkg install -y git `
 * ` pkg install -y proot `
 * ` termux-setup-storage `
+* ` rm -rf T-ROOT ` `
 * ` git clone https://github.com/U7P4L-IN/T-ROOT `
 * ` cd T-ROOT`
 * ` bash install.sh `
