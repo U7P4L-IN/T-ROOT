@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/U7P4L-IN/T-ROOT/blob/main/image/BANNER_REMOVER.png">
+
 # What is T-root?
 
 T-root is a tool that uses proroot to simulate root privileges, using the word root as a shortcut to activate it.
@@ -13,6 +15,7 @@ T-root is a tool that uses proroot to simulate root privileges, using the word r
 * ` cd T-ROOT`
 * ` bash install.sh `
 * ` ./start `
+<p align="center"><img src="https://github.com/U7P4L-IN/T-ROOT/blob/main/image/carbon%20(3).png">
 
 #### Screenshots:
 ##Demo 1
